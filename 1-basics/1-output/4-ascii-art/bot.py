@@ -1,4 +1,4 @@
 print("         mm")
-print("      /^(  )^\ ")
-print("      \,(..),/ ")
-print("        V~~V")    
+print("      /^(  )^\\ ")
+print("      \\,(..),/ ")
+print("        V~~V")
