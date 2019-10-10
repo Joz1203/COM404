@@ -5,4 +5,4 @@ while count <=100:
     total += count
     count += 1
 
-print("...Done! The Answer is",total,".")
+print("...Done! The Answer is " ,total, ".")
