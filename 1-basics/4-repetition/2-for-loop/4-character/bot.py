@@ -10,3 +10,5 @@ print()
 #display markings
 for number in range(0, len(markings), 1):
     print("index", number, ":", markings[number])
+print()
+print("Done!")

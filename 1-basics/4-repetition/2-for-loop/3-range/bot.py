@@ -1,9 +1,12 @@
 #user input brightness level
+
 print("What level of brightness is required?")
 brightness = int(input(""))
 print()
 print("Adjusting brightness...")
 print()
+
+#brightness increasing
 
 for number in range(2, brightness + 1, 2):
     print("Beep's brightness level:", number * "*")
